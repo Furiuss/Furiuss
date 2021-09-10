@@ -6,6 +6,8 @@
 
 #### -👨‍💻 Sonho me tornar um desenvolvedor back-end competente
 
+#### -🤩 Adoro jogar qualquer coisa, principalmente CS (Àguia lvl 15). Amo animes e mangás e sempre quis ser o Rei dos Piratas! (SIM, ONE PIECE MEU FAVORITO).
+
 <div>
   <a href="https://github.com/Furiuss"  >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furiuss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
