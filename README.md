@@ -1,8 +1,8 @@
 #  Oi! Me chamo André, prazer <img align="center" alt = "Andre" height="40" width="60" src = "https://cdn.discordapp.com/emojis/735988987923005483.png?v=1">
 
-#### -🎓 Atualmente estudando Ciência da Computação, 4° Período
+#### -🎓 Atualmente estudando Ciência da Computação, 5° Período
 
-#### -☕ Estudando JAVA, PYTHON e SQL
+#### -☕ PYTHON
 
 #### -👨‍💻 Sonho me tornar um desenvolvedor back-end competente
 
