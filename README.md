@@ -1,10 +1,10 @@
 #  Oi! Me chamo André, prazer <img align="center" alt = "Andre" height="40" width="60" src = "https://cdn.discordapp.com/emojis/735988987923005483.png?v=1">
 
-#### -🎓 Atualmente estudando Ciência da Computação, 5° Período
+#### -🎓 Atualmente estudando Ciência da Computação, 6° Período
 
-#### -☕ PYTHON
+#### -☕ React
 
-#### -👨‍💻 Sonho me tornar um desenvolvedor back-end competente
+#### -👨‍💻 Sonho me tornar um web develop competente
 
 #### -🤩 Adoro jogar qualquer coisa, principalmente CS (Àguia lvl 15). Amo animes e mangás e sempre quis ser o Rei dos Piratas! (SIM, ONE PIECE MEU FAVORITO).
 
