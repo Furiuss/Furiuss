@@ -2,9 +2,9 @@
 
 #### -🎓 Atualmente estudando Ciência da Computação, 6° Período
 
-#### -☕ React
+#### -☕ React, Redux, NextJs
 
-#### -👨‍💻 Sonho me tornar um web develop competente
+#### -👨‍💻 Busco me tornar um web develop competente
 
 #### -🤩 Adoro jogar qualquer coisa, principalmente CS (Àguia lvl 15). Amo animes e mangás e sempre quis ser o Rei dos Piratas! (SIM, ONE PIECE MEU FAVORITO).
 
