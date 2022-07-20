@@ -2,7 +2,7 @@
 
 #### -🎓 Atualmente estudando Ciência da Computação, 6° Período
 
-#### -☕ React, Redux, NextJs
+#### -☕ React, Redux, Nextjs
 
 #### -👨‍💻 Busco me tornar um web develop competente
 
