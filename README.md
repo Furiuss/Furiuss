@@ -6,7 +6,7 @@
 
 #### -👨‍💻 Busco me tornar um web develop competente
 
-#### -🤩 Adoro jogar qualquer coisa, amo ler mangá e assistir animes, fã de futebol e um pouco de NBA.
+#### -🤩 Adoro jogar qualquer coisa, amo ler mangá e assistir animes, fã de futebol e um pouco de NBA. Jogo muito aquele cszinho de cria e tamo ai na busca do shape 😅
 
 <div>
   <a href="https://github.com/Furiuss"  >
