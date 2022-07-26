@@ -6,7 +6,7 @@
 
 #### -👨‍💻 Busco me tornar um web develop competente
 
-#### -🤩 Adoro jogar qualquer coisa, principalmente CS (Àguia lvl 15). Amo animes e mangás e sempre quis ser o Rei dos Piratas! (SIM, ONE PIECE MEU FAVORITO).
+#### -🤩 Adoro jogar qualquer coisa, amo ler mangá e assistir animes, fã de futebol e um pouco de NBA.
 
 <div>
   <a href="https://github.com/Furiuss"  >
