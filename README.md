@@ -8,6 +8,8 @@
 
 #### -🤩 Adoro jogar qualquer coisa, amo ler mangá e assistir animes, fã de futebol e um pouco de NBA. Jogo muito aquele cszinho de cria e tamo ai na busca do shape 😅
 
+### -🚀 PORTFÓLIO: https://andreazv-portfolio.netlify.app/
+
 <div>
   <a href="https://github.com/Furiuss"  >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furiuss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
