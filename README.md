@@ -2,7 +2,7 @@
 
 #### -🎓 Atualmente estudando Ciência da Computação, 6° Período
 
-#### -☕ MERN Stack
+#### -☕ SOLID
 
 #### -👨‍💻 Busco me tornar um web develop competente
 
