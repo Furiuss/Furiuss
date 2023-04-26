@@ -1,12 +1,10 @@
 #  Oi! Me chamo André, prazer <img align="center" alt = "Andre" height="40" width="60" src = "https://cdn.discordapp.com/emojis/735988987923005483.png?v=1">
 
-#### -🎓 Atualmente estudando Ciência da Computação, 6° Período
+#### -🎓 Atualmente estudando Ciência da Computação, 7° Período
 
-#### -☕ SOLID
+#### -☕ SAP UI5
 
 #### -👨‍💻 Busco me tornar um web develop competente
-
-#### -🤩 Adoro jogar qualquer coisa, amo ler mangá e assistir animes, fã de futebol e um pouco de NBA. Jogo muito aquele cszinho de cria e tamo ai na busca do shape 😅
 
 ### -🚀 portfólio: https://andreazv-portfolio.netlify.app/
 
