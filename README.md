@@ -4,7 +4,7 @@
 
 #### -☕ SAP UI5
 
-#### -👨‍💻 Busco me tornar um web develop competente
+#### -👨‍💻 Busco me tornar um desenvolvedor capaz de solucionar todos os tipos de problemas
 
 ### -🚀 portfólio: https://andreazv-portfolio.netlify.app/
 
