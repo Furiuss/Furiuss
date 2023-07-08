@@ -1,6 +1,6 @@
 #  Oi! Me chamo André, prazer <img align="center" alt = "Andre" height="40" width="60" src = "https://cdn.discordapp.com/emojis/735988987923005483.png?v=1">
 
-### - 🧑‍💻 Atualmente trabalhando como desenvolvedor na Invent Software. Implementando funcionalidades e dando manutenção no TaxPlus, addon do SAP BusinessOne
+#### - 🧑‍💻 Atualmente trabalhando como desenvolvedor na Invent Software. Implementando funcionalidades e dando manutenção no TaxPlus, addon do SAP BusinessOne
 
 #### -🎓 Cursando Ciência da Computação, 8° Período
 
