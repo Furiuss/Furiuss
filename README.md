@@ -1,10 +1,12 @@
 #  Oi! Me chamo André, prazer <img align="center" alt = "Andre" height="40" width="60" src = "https://cdn.discordapp.com/emojis/735988987923005483.png?v=1">
 
-#### -🎓 Atualmente estudando Ciência da Computação, 7° Período
+### - 🧑‍💻 Atualmente trabalhando como desenvolvedor na Invent Software. Implementando funcionalidades e dando manutenção no TaxPlus, addon do SAP BusinessOne
+
+#### -🎓 Cursando Ciência da Computação, 8° Período
 
 #### -☕ SAP UI5
 
-#### -👨‍💻 Busco me tornar um desenvolvedor capaz de solucionar todos os tipos de problemas
+#### -🎯 Busco me tornar um desenvolvedor capaz de solucionar todos os tipos de problemas
 
 ### -🚀 portfólio: https://andreazv-portfolio.netlify.app/
 
