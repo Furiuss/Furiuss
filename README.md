@@ -41,10 +41,26 @@
   </div>
   
   ##
+
+  <!-- ===================================== Work Experience ========================================= -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Experiências</h2></summary>
+  </ul>
+</div>
+
+<!-- ========= INVENT SOFTWARE ========== -->
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQGer-6sn2Oj7Q/company-logo_200_200/0/1630662205897/invent_software_logo?e=2147483647&v=beta&t=doTFlQEamdGj1mUEgfDk3FsM5oetNJyL6XsrdS3fiYo"/>
+
+**Software Engineer** \
+[**Invent Software**](https://inventsoftware.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `.NET`, `JavaScript`, `SAP B1`, `SAP UI5`, `Linq2DB`, `SQL Server`, `Hana SQL`\
+Projetos em destaque: [TaxPlus](https://inventsoftware.com.br/solucoes/taxplus/),
+<br/>
+<!-- =============================================================================================== -->
   
   
-  
-  ![ddnm7kmznqd71](https://i.pinimg.com/originals/40/e9/da/40e9daa6982435261c840673b008b5dd.jpg)
+![ddnm7kmznqd71](https://i.pinimg.com/originals/40/e9/da/40e9daa6982435261c840673b008b5dd.jpg)
 
  
 
