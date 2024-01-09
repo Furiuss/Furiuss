@@ -4,7 +4,7 @@
 
 #### -🎓 Graduado em Ciência da Computação
 
-#### -☕ SAP UI5
+#### -☕ AWS | Machine Learning | Docker | RabbitMQ
 
 #### -🎯 Busco me tornar um desenvolvedor capaz de solucionar todos os tipos de problemas
 
