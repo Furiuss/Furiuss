@@ -2,7 +2,7 @@
 
 #### - 🧑‍💻 Atualmente trabalhando como desenvolvedor na Invent Software. Implementando funcionalidades e dando manutenção no TaxPlus, addon do SAP BusinessOne
 
-#### -🎓 Cursando Ciência da Computação, 8° Período
+#### -🎓 Graduado em Ciência da Computação
 
 #### -☕ SAP UI5
 
